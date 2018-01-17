@@ -49,11 +49,11 @@ author:
 home:
   section1: <h1>Muhammad Usman</h1>
   section2: <h2>I help people connect to their things.</h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
+  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/uthmanhere" title="View on GitHub"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
-  footer_content: A gem-based responsive simple texture styled <a href="http://jekyllrb.com/">Jekyll</a> theme.
+  footer_content: Blog of an IoT Engineer, <a href="http://uthmanhere.github.io>Muhammad Usman</a> who loves to connect people through things.
 
 disqus:
   shortname: # e.g. yizeng
