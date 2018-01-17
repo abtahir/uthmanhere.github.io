@@ -53,7 +53,7 @@ home:
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
-  footer_content: Blog of an IoT Engineer, <a href="http://uthmanhere.github.io>Muhammad Usman</a> who loves to connect people through things.
+  footer_content: Blog of an IoT Engineer <a href="http://uthmanhere.github.io"> Muhammad Usman </a> who loves to connect people through things.
 
 disqus:
   shortname: # e.g. yizeng
